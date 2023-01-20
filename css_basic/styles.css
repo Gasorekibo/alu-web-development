@@ -5,6 +5,9 @@ main{
     display: flex;
     flex-direction: row;
     flex: auto;
+    color: blue;
+    background-color:grey;
+
 }
 article{
     flex: 2;
@@ -13,4 +16,6 @@ article{
 aside{
     flex: 1;
     overflow-y: auto;
+    background-color: black;
+    color: green;
 }
