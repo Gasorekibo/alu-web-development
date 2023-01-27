@@ -1,4 +1,4 @@
-This project is about designing our web page and wes wish to look like
+This project is about designing our web page and we wish to look like
 the one in below:
 
-![](https://www.figma.com/file/i0juCKHpTvr7bzVPwSK3IY/Homepage-(Copy)?node-id=3558%3A0&t=CtzSP9wnuhpZstAX-0)
+![alt text](https://www.figma.com/file/i0juCKHpTvr7bzVPwSK3IY/Homepage-(Copy)?node-id=0%3A1&t=CtzSP9wnuhpZstAX-0)
