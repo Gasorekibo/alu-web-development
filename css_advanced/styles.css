@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    background-color: green;
+}
+.logo, img{
+    width: 111.83399963378906px;
+    left: 226.77398681640636px;
+    top: 41.54400253295921px;
+    border-radius: 75px;
+    justify-self: left;
+    
+}
+
+.menu{
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+
