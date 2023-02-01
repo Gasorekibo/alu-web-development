@@ -356,7 +356,7 @@ header {
     display: flex;
     flex-direction: column;
     flex: 1;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.573);
     color: white;
 }
 
