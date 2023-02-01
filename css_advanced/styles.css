@@ -244,3 +244,146 @@ header {
     color:purple;
     font-weight: 650;
 }
+
+/* styling memership section */
+
+.membership {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.455);
+    flex-direction: column;
+    align-items: center;
+    color:white
+    
+}
+
+.membership h1 {
+    font-weight: 700;
+    font-family: 'Source Sans Pro';
+    margin-bottom: 45px;
+    padding-top: 60px;
+
+}
+
+.membership h1 span{
+    color:purple;
+}
+
+.membership-info{
+    display: flex;
+
+}
+
+.member1{
+    flex-direction: column;
+    margin-right: 30px;
+    margin-bottom: 60px;
+}
+
+.member1 img{
+    width: 60px;
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.member1 h2,
+.member1 p {
+    flex: 1;
+    margin-right: 30px;
+}
+
+.membership button {
+    width:162px;
+    height: 44px;
+    filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+    border-radius: 30px;
+    background-color:#c971ff;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.questions{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.662);
+}
+
+.questions h1{
+    font-weight: 500;
+    margin-top: 55px;
+}
+
+.row{
+    display: flex;
+}
+
+.row1 .row2 {
+    display: flex;
+    flex: 1;
+}
+
+.row1 {
+    width: 50vw;
+    margin-top:40px;
+    padding-left: 200px;
+    padding-right: 180px;
+
+}
+
+.row2 {
+    width: 50vw;
+    margin-top:40px;
+    margin-left: 160px;
+    padding-right: 250px;
+}
+
+.row1 h2,
+.row2 h2 {
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+
+.first-column p,
+.second-column p {
+    margin-bottom: 55px;
+}
+
+
+/* styling footer section */
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    background-color: black;
+    color: white;
+}
+
+.footer p{
+    margin-left: 50%;
+}
+
+.footer-row,
+.footer-links {
+    display: flex;
+    justify-items: center;
+}
+
+.footer-row img {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin-left: 200px;
+    padding: 16px;
+    margin-right: 200px;
+
+}
+
+.footer-links #link1 {
+    display:flex;
+    justify-content: flex-start;
+    width: 90px;
+    padding-right: 90px;
+
+}
